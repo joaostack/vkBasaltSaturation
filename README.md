@@ -17,5 +17,5 @@ Saturation = /home/$USER/.config/vkBasalt/reshade-shaders/Shaders/Saturation.fx
 
 Steam Launch Options
 ```
-ENABLE_VKBASALT=1 LD_PRELOAD=""  gamemoderun %command%
+ENABLE_VKBASALT=1 LD_PRELOAD="" gamemoderun %command%
 ```
