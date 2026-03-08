@@ -3,7 +3,7 @@ Shader for vibrant &amp; saturated colors
 
 Put Saturation.fx in ```~/.config/vkBasalt/reshade-shaders/Shaders/```
 ```
-mkdir -p ~/.config/vkBasalt/reshade-shaders/Shaders/
+mkdir -vp ~/.config/vkBasalt/reshade-shaders/Shaders/
 ```
 
 ```
