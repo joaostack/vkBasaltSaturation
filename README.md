@@ -9,7 +9,7 @@ mkdir -vp ~/.config/vkBasalt/reshade-shaders/Shaders/
 mv Saturation.fx ~/.config/vkBasalt/reshade-shaders/Shaders/
 ```
 
-Add lines in vkBasalt.conf
+Add lines in the vkBasalt.conf
 ```
 effects = Saturation
 Saturation = /home/$USER/.config/vkBasalt/reshade-shaders/Shaders/Saturation.fx
