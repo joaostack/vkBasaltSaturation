@@ -1,6 +1,10 @@
 # vkBasaltSaturation
 
 ```
+git clone https://github.com/joaostack/vkBasaltSaturation
+```
+
+```
 mv vkBasaltSaturation/reshade-shaders/ ~/.config/vkBasalt/
 ```
 
